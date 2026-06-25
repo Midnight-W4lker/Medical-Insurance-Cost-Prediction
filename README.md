@@ -1,9 +1,3 @@
----
-noteId: "167c193070b111f19ec49d9bd6d884a1"
-tags: []
-
----
-
 # Medical Insurance Cost Prediction
 
 ## Project Overview
