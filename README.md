@@ -1,5 +1,10 @@
 # Medical Insurance Cost Prediction
 
+## Web Report
+
+A static web representation is available in `docs/index.html`. After enabling GitHub Pages from the `docs` folder, it can be viewed as a project report page.
+
+
 ## Project Overview
 
 This project analyzes medical insurance charges and builds a regression workflow to estimate expected insurance cost. The target variable is `charges`, which is continuous, so this notebook uses multiple linear regression and regularized regression techniques.
